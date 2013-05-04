@@ -7,13 +7,13 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 
-import DirectedGraph.*;
 import java.util.*;
 
 public class IMDivRank {
 
     DirectedGraph graph;
 
+    double test = 0.0001;
     // double p;
     double p = 0.01;
 
